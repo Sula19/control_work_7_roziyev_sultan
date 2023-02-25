@@ -1,0 +1,28 @@
+* {
+    font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New", Courier, monospace;
+}
+body {
+    background: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000") no-repeat center fixed;
+    background-size: cover;
+}
+.form-label {
+    color: wheat;
+}
+h2 {
+    color: wheat;
+}
+.btn-primary {
+    margin-top: -68px;
+    margin-left: 54px;
+}
+.icon {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+.icons {
+    margin-left: 25px;
+}
+h6 {
+    font-weight: bold;
+}
